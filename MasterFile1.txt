@@ -1,1 +1,4 @@
-Line1
+Line1 edited
+
+New Line
+New Line
